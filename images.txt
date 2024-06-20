@@ -1,1 +1,2 @@
-python:alpine3.19
+video_tools:slim-0.2
+
