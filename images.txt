@@ -1,4 +1,5 @@
-qbittorrent:libtorrentv1
+ yixinrushi/video_tools:slim-0.2
+
 
 
 
