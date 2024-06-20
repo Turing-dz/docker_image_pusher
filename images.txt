@@ -1,5 +1,5 @@
- yixinrushi/video_tools:slim-0.2
-
+#yixinrushi/video_tools:slim-0.2
+linuxserver/qbittorrent
 
 
 
