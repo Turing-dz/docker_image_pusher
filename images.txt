@@ -1,2 +1,2 @@
-qbittorrent:4.6.5-libtorrentv1
-video_tools:slim-0.2
+alpine
+python:alpine3.19
